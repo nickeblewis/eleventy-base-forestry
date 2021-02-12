@@ -7,10 +7,7 @@ tags:
 layout: layouts/post.njk
 
 ---
-![](/img/david-monje-eUB_CYMxawE-unsplash.jpg)
-Photo by https://unsplash.com/@davidmonje
-
-![The RVS Logo](/v1613138710/TMIH/RVS_50_Logo-01.jpg "RVS Logo")
+![](https://res.cloudinary.com/dqpknoetx/image/upload/v1613138710/TMIH/RVS_50_Logo-01.jpg)
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
@@ -29,8 +26,5 @@ function myCommand() {
 
 // Test with a line break above this line.
 console.log('Test');
-```
 
-addd
-
-![](/v1613134650/TMIH/nicks%20photos/_DSC7514.jpg)
+![](https://res.cloudinary.com/dqpknoetx/image/upload/v1613134655/TMIH/nicks%20photos/_DSC7528.jpg)
