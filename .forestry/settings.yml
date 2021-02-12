@@ -10,7 +10,7 @@ sections:
   path: about/index.md
   label: About
 - type: directory
-  path: _data/posts
+  path: posts
   label: Posts
   create: all
   match: "**/*"
