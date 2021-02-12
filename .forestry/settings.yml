@@ -6,6 +6,10 @@ webhook_url:
 sections:
 - type: heading
   label: Heading 1
+- type: document
+  path: about/index.md
+  label: About
+  match: "**/*"
 - type: directory
   path: _data/posts
   label: Posts
