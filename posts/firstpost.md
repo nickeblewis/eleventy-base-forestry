@@ -3,12 +3,14 @@ title: This is my first post.
 description: This is a fake post on agile frameworks
 date: 2018-05-01
 tags:
-  - another-tag
+- another-tag
 layout: layouts/post.njk
----
 
+---
 ![](/img/david-monje-eUB_CYMxawE-unsplash.jpg)
 Photo by https://unsplash.com/@davidmonje
+
+![](/v1613138710/TMIH/RVS_50_Logo-01.jpg)
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
